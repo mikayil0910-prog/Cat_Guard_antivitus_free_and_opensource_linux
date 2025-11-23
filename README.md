@@ -1,4 +1,4 @@
-# Cat_Guard_antivitus_free_and_opensource
+# Cat_Guard_antivitus_free_and_opensource_linux
 
 # 🐾 CatGuard Antivirus (Beta)
 CatGuard is a lightweight, open-source antivirus scanner designed for fast directory scanning, hash-based malware detection, and simple threat removal.  
